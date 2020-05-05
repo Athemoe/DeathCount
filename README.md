@@ -7,6 +7,7 @@
 DISCLAIMER: This addon was developed for Wow Classic and has not been tested for retail.
 
 
+
 Chat commands:
 
 /deaths
