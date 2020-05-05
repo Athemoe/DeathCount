@@ -1,5 +1,7 @@
 # Death counter
  This addon will show you your amount of deaths in game, per character.
+DISCLAIMER: This addon was developed for Wow Classic and has not been tested for retail.
+
 
 Chat commands:
 
