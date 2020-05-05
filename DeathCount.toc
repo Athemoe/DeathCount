@@ -1,0 +1,10 @@
+## Interface: 11304
+## Title: DeathCount
+## Notes: Keeps track of your overal in-game deaths per character.
+## Author: Jordy Berendsen
+## Version: 1.0
+## Dependencies: 
+## SavedVariablesPerCharacter: DCPrefs, DeathSave
+
+DeathCount.lua
+DeathCount.xml

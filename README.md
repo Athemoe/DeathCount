@@ -1,6 +1,13 @@
-# Wand Progression
- Shows you your wand progression in Classic WoW.
+# Death counter
+ This addon will show you your amount of deaths in game, per character.
 
- This addon will show you what wand is best in slot for your current and future levels.
+Chat commands:
 
- It works for both Horde & Alliance.
+/deaths
+Shows you your total amount of deaths
+
+/deaths say
+Shows you your total amount of deaths in the "SAY" channel
+
+/deaths reset
+Reset your total amount of deaths
