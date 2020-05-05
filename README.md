@@ -1,3 +1,5 @@
+![DeathCountLogo](https://i.imgur.com/mRBt8tl.png)
+
 # Death counter
  This addon will show you your amount of deaths in game, per character.
 
