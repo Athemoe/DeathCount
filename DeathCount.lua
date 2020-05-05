@@ -21,7 +21,7 @@ deathCounter = 0
 			DeathSave = 0
 			print("Amount of deaths have been reset to 0")
 		else
-		print("Total Deaths:"..' '..tostring(deathCounter));
+			print("Total Deaths:"..' '..tostring(deathCounter));
 		end
 	  end
 	  
